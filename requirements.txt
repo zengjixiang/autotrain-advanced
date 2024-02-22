@@ -17,7 +17,7 @@ tqdm==4.65.0
 werkzeug==2.3.6
 huggingface_hub>=0.16.4
 requests==2.31.0
-gradio==3.39.0
+gradio==4.19.2
 einops==0.6.1
 invisible-watermark==0.2.0
 # latest versions
